@@ -36,6 +36,49 @@ Follow these steps to set up and deploy the Terraform code:
 
 ## Screenshots of the resources created
 
-  ### Terraform plan
+  - **Terraform Plan**
   ![Alt text](/screenshots/plan.png?raw=true "Terraform plan")
+
+    - **Terraform Apply**
+  ![Alt text](/screenshots/apply.png?raw=true "Terraform apply")
+
+    - **VPC**
+  ![Alt text](/screenshots/vpcs.png?raw=true "Terraform plan")
+
+    - **Subnets**
+  ![Alt text](/screenshots/subnets.png?raw=true "Terraform plan")
+
+    - **Gateways**
+        - **Nat Gateways**
+        ![Alt text](/screenshots/nat_gateways.png?raw=true "Terraform plan")
+
+        - **Internet Gatways**
+        ![Alt text](/screenshots/internet_gateways.png.png?raw=true "Terraform plan")
+
+
+    - **NACLS**
+  ![Alt text](/screenshots/nacls.png?raw=true "Terraform plan")
+
+    - **Route Tables**
+  ![Alt text](/screenshots/route_tables.png?raw=true "Terraform plan")
+
+    - **EC2 Instances**
+  ![Alt text](/screenshots/ec2_instance.png?raw=true "Terraform plan")
+
+    - **AWS IAM Role**
+  ![Alt text](/screenshots/iam_roles.png?raw=true "Terraform plan")
+
+    - **Security Group**
+  ![Alt text](/screenshots/security_groups.png?raw=true "Terraform plan")
+
+    - **Load Balancer**
+  ![Alt text](/screenshots/load_balancers.png?raw=true "Terraform plan")
+
+  - **Launch Template**
+  ![Alt text](/screenshots/launch_templates.png?raw=true "Terraform plan")
+
+  - **Auto Scaling Group**
+  ![Alt text](/screenshots/auto_scaling_groups.png?raw=true "Terraform plan")
+
+  
 
