@@ -24,16 +24,15 @@ Follow these steps to set up and deploy the Terraform code:
 
 2. **Prepare your working directory for other commands**:
    ```bash
-     terraform init      
-  ``` 
+     terraform init  
+
 3. **Show changes required by the current configuration**:
    ```bash
-     terraform plan      
-  ```    
+     terraform plan     
+
 4. **Create or update infrastructure**:
    ```bash
      terraform apply      
-  ```    
 
 
 
