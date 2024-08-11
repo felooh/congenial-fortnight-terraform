@@ -24,18 +24,18 @@ Follow these steps to set up and deploy the Terraform code:
 
 1. **Clone the Repository**:
    ```bash
-   
+     terraform init      
+  ```    
 
-1. **Excecute these commands simultaneously**:
    ```bash
-  terraform init          
-  terraform validate      
-  terraform plan          
-  terraform apply         
-  terraform destroy       
+     terraform plan      
+  ```   
+
+   ```bash
+     terraform apply     
+  ```   
 
 
-The above command do the following functions
 
   terraform init          Prepare your working directory for other commands
   terraform validate      Check whether the configuration is valid
