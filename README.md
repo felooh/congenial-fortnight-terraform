@@ -87,7 +87,5 @@ Follow these steps to set up and deploy the Terraform code:
    ```bash
      terraform destroy
 
-
-
   
 
