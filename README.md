@@ -22,18 +22,19 @@ Follow these steps to set up and deploy the Terraform code:
    https://github.com/felooh/congenial-fortnight-terraform.git
    cd congenial-fortnight-terraform
 
-1. **Clone the Repository**:
+2. **Prepare your working directory for other commands**:
    ```bash
      terraform init      
-  ```    
-
+  ``` 
+3. **Show changes required by the current configuration**:
    ```bash
      terraform plan      
-  ```   
-
+  ```    
+4. **Create or update infrastructure**:
    ```bash
-     terraform apply     
-  ```   
+     terraform apply      
+  ```    
+
 
 
 
