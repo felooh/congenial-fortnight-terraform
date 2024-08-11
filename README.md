@@ -32,7 +32,10 @@ Follow these steps to set up and deploy the Terraform code:
 
 4. **Create or update infrastructure**:
    ```bash
-     terraform apply      
+     terraform apply
 
+## Screenshots of the resources created
 
-  
+  ### Terraform plan
+  ![Alt text](/screenshots/plan.png?raw=true "Terraform plan")
+
